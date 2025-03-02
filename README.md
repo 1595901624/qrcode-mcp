@@ -7,6 +7,7 @@
     <p>
         <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="版本">
         <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="许可证">
+        <img src="https://smithery.ai/badge/@1595901624/qrcode-mcp" alt="Smithery Badge">
     </p>
 </div>
 
@@ -21,6 +22,15 @@ A Model Context Protocol (MCP) server for generating simple QR codes. Support cu
 
 ## 📦 Installation
 
+### Installing via Smithery
+
+To install QRCode_MCP for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@1595901624/qrcode-mcp):
+
+```bash
+npx -y @smithery/cli install @1595901624/qrcode-mcp --client claude
+```
+
+### Manual Installation
 1. Clone the Repository
 
 ```
